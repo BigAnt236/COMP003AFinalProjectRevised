@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+ * Author: Anthony Alvarez
+ * Course: COMP003A
+ * Purpose: Final project for COMP003A
+ */
+
+using System;
 using System.Collections.Generic;
 
 namespace COMP003AFinalProject
